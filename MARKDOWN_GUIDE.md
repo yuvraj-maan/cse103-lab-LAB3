@@ -20,11 +20,15 @@ Fenced code block (use language name for syntax highlighting):
 def greet(name):
     return f"Hello, {name}!"
 Hyperlink: GitHub
+
 Table:
-Column 1	Column 2	Column 3
-Left	Centre	Right
+
+| Column 1 | Column 2 | Column 3 |
+| :--- | :---: | ---: |
+| Left | Centre | Right |
+
 Blockquote:
-An important note or reference goes here.
+> An important note or reference goes here.
 
 Horizontal divider:
 ---
