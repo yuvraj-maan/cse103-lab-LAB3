@@ -18,7 +18,8 @@ Inline code: `print("Hello")`
 Fenced code block (use language name for syntax highlighting):
 ```python
 def greet(name):
-    return f"Hello, {name}!"'''
+    return f"Hello, {name}!"
+'''
 Hyperlink: GitHub
 
 Table:
